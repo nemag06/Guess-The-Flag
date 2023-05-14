@@ -14,5 +14,5 @@ Built using
 ## Sample screenshot
 
 <img alt="Guess The Flag app screenshot" src="https://github.com/nemag06/Guess-The-Flag/assets/118446028/e230d892-1133-4cf3-8c4c-58db1f65c99b" width=300>
-![GuessTheFlag](https://github.com/nemag06/Guess-The-Flag/assets/118446028/e230d892-1133-4cf3-8c4c-58db1f65c99b)
+
 
